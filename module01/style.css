@@ -6,6 +6,7 @@
 
 body {
   background-color: darksalmon;
+  background-color: aqua;
   font-family: 'Roboto', sans-serif;
   display: flex;
   flex-direction: column;
@@ -22,6 +23,7 @@ div {
   background: rgba(0, 0, 0, 0.1);
   padding: 10px 20px;
   font-size: 18px;
+  font-size: 40px;
 }
 
 input {
@@ -29,6 +31,7 @@ input {
   padding: 5px;
   font-size: 18px;
   background-color: darksalmon;
+  background-color: aqua;
   border: none;
   text-align: center;
 }
