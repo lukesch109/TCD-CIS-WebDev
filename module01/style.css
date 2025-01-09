@@ -5,7 +5,6 @@
 }
 
 body {
-  background-color: darksalmon;
   background-color: aqua;
   font-family: 'Roboto', sans-serif;
   display: flex;
@@ -30,7 +29,6 @@ input {
   width: 50px;
   padding: 5px;
   font-size: 18px;
-  background-color: darksalmon;
   background-color: aqua;
   border: none;
   text-align: center;
