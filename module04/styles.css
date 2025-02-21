@@ -37,7 +37,7 @@ main {
     width: calc(70% - 1px);
     float: left;
     padding: 1rem;
-    border-right: 1px solid #ccc;
+    border-right: 1px solid;
 }
 
 aside {
